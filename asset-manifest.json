@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/2024-the-night-of-ai-it.github.io/static/css/main.e6c13ad2.css",
-    "main.js": "/2024-the-night-of-ai-it.github.io/static/js/main.8f27f54d.js",
-    "static/js/453.0320214c.chunk.js": "/2024-the-night-of-ai-it.github.io/static/js/453.0320214c.chunk.js",
+    "main.js": "/2024-the-night-of-ai-it.github.io/static/js/main.3e04ac78.js",
+    "static/js/453.3ba26bfc.chunk.js": "/2024-the-night-of-ai-it.github.io/static/js/453.3ba26bfc.chunk.js",
     "static/media/food-2.jpg": "/2024-the-night-of-ai-it.github.io/static/media/food-2.981f939c4636d45d89be.jpg",
     "static/media/god-1.png": "/2024-the-night-of-ai-it.github.io/static/media/god-1.9dea7955e12fde3b162e.png",
     "static/media/food-1.jpeg": "/2024-the-night-of-ai-it.github.io/static/media/food-1.9172fd70e567ed9621f0.jpeg",
@@ -22,6 +22,7 @@
     "static/media/poster7.png": "/2024-the-night-of-ai-it.github.io/static/media/poster7.6387e57a1b10c317b3c5.png",
     "static/media/team-1.jpg": "/2024-the-night-of-ai-it.github.io/static/media/team-1.5fabe56e520401e21a09.jpg",
     "static/media/poster8.png": "/2024-the-night-of-ai-it.github.io/static/media/poster8.b7b26206c820a4e4b3df.png",
+    "static/media/2022-it.jpg": "/2024-the-night-of-ai-it.github.io/static/media/2022-it.a4b81b3822b114d417f3.jpg",
     "static/media/poster4.png": "/2024-the-night-of-ai-it.github.io/static/media/poster4.a88197a73acd2473a18c.png",
     "static/media/project-2.jpg": "/2024-the-night-of-ai-it.github.io/static/media/project-2.f2bd0fac6d7ebfbd1ba0.jpg",
     "static/media/poster6.png": "/2024-the-night-of-ai-it.github.io/static/media/poster6.be05648240111d64d4a5.png",
@@ -32,22 +33,22 @@
     "static/media/dopamine-2.jpg": "/2024-the-night-of-ai-it.github.io/static/media/dopamine-2.b1138260f0143e806a36.jpg",
     "static/media/logo1.png": "/2024-the-night-of-ai-it.github.io/static/media/logo1.2996238642974bde7600.png",
     "static/media/dopamine-1.jpg": "/2024-the-night-of-ai-it.github.io/static/media/dopamine-1.0d7bc945ed973ef9a3b5.jpg",
+    "static/media/maptext.png": "/2024-the-night-of-ai-it.github.io/static/media/maptext.594387e9e12f3a4cbd23.png",
     "static/media/logo_green.png": "/2024-the-night-of-ai-it.github.io/static/media/logo_green.cfeb6e4b521edfbb2247.png",
     "static/media/record.png": "/2024-the-night-of-ai-it.github.io/static/media/record.80c5b923537a960b27e5.png",
     "static/media/btn_box.png": "/2024-the-night-of-ai-it.github.io/static/media/btn_box.e797a566a9cc12c7f91f.png",
     "static/media/logo_blue.png": "/2024-the-night-of-ai-it.github.io/static/media/logo_blue.8727d4ed3da3050c2a4c.png",
     "static/media/team-2.png": "/2024-the-night-of-ai-it.github.io/static/media/team-2.503ac2d0e11ec8063ad6.png",
-    "static/media/maptext.png": "/2024-the-night-of-ai-it.github.io/static/media/maptext.5e2d35e0e537d8906839.png",
     "static/media/maphead.png": "/2024-the-night-of-ai-it.github.io/static/media/maphead.23d796924bbae12f6766.png",
     "static/media/apply_green.png": "/2024-the-night-of-ai-it.github.io/static/media/apply_green.f52a1de3f067b0e47e1b.png",
     "static/media/apply_white.png": "/2024-the-night-of-ai-it.github.io/static/media/apply_white.b8b98be73f77e0d65ac9.png",
     "index.html": "/2024-the-night-of-ai-it.github.io/index.html",
     "main.e6c13ad2.css.map": "/2024-the-night-of-ai-it.github.io/static/css/main.e6c13ad2.css.map",
-    "main.8f27f54d.js.map": "/2024-the-night-of-ai-it.github.io/static/js/main.8f27f54d.js.map",
-    "453.0320214c.chunk.js.map": "/2024-the-night-of-ai-it.github.io/static/js/453.0320214c.chunk.js.map"
+    "main.3e04ac78.js.map": "/2024-the-night-of-ai-it.github.io/static/js/main.3e04ac78.js.map",
+    "453.3ba26bfc.chunk.js.map": "/2024-the-night-of-ai-it.github.io/static/js/453.3ba26bfc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8f27f54d.js"
+    "static/js/main.3e04ac78.js"
   ]
 }
