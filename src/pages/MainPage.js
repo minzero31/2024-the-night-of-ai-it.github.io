@@ -156,7 +156,7 @@ const MapImage = styled.img`
 `;
 
 const MapTextImage = styled.img`
-    width: 200px;
+    width: 300px;
     border-radius: 20px; 
     opacity: ${({ isVisible }) => (isVisible ? 1 : 0)};
     transform: translateY(${({ isVisible }) => (isVisible ? "0" : "20px")});
@@ -220,7 +220,7 @@ function MainPage() {
             </LogoContainer>
             
             <Info>
-                <Text>일시 | 2024. 12. 16. Mon. 17:30</Text>
+                <Text>일시 | 2024. 12. 16. Mon. 17:00</Text>
                 <LocationText onClick={() => window.open("https://naver.me/5YFLFs9V", "_blank")}>
                     장소 | 삼정 호텔 아도니스홀 ↗
                 </LocationText>

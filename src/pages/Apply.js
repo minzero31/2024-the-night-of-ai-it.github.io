@@ -2,6 +2,7 @@ import React from "react";
 import styled, { createGlobalStyle } from "styled-components";
 import { useNavigate } from "react-router-dom";
 import logoBlueImg from "../assets/logo/logo_blue.png";
+import ITImg from "../assets/apply/2022-it.jpg";
 
 const Logo = styled.img`
   width: 240px;
@@ -37,13 +38,13 @@ const Container = styled.div`
 const EventImage = styled.div`
   flex: 1.5;
   height: 90%;
-  background-image: url("/image/applypic.jpg"); /* 이미지 경로 */
+  background-image: url(${ITImg}); /* 이미지 경로 */
   background-size: cover;
   background-position: left center; /* 이미지를 왼쪽 끝으로 이동 */
   mask-image: linear-gradient(to right, black 0%, transparent 100%);
   -webkit-mask-image: linear-gradient(to right, black 20%, transparent 100%);
   margin : 20px;
-    border: 5px solid #74ecff; /* 테두리 색상과 두께 */
+  border: 5px solid #74ecff; /* 테두리 색상과 두께 */
   border-radius: 00px; /* 둥근 테두리 (필요 없으면 제거 가능) */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* 선택 사항: 그림자 추가 */
 `;
