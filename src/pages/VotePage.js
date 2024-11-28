@@ -87,7 +87,7 @@ function VotePage() {
                 title: "라인송: 교내 줄 관리 시스템 및 로봇", 
                 name: "라인송", 
                 content: "교내 나눔 행사에서 줄 질서 및 관리 문제를 파악하여 대기, 운영하는 학우들에게 편리한 서비스를 제공하는 시스템 및 로봇",
-                notion: "https://www.notion.so/LINESONG-a94782599d9a453d8c7618bddfd99cd7#96d5dd52a0e74756bee0ceac5226fcbb"
+                notion: "https://polite-sweatshirt-e46.notion.site/LINESONG-a94782599d9a453d8c7618bddfd99cd7"
             },
             { 
                 image: projectImg3, 
