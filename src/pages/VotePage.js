@@ -80,7 +80,7 @@ function VotePage() {
                 title: "🐾🐶WalkBuddy‼️", 
                 name: "DOG", 
                 content: "반려견과 견주, 비(非)견주 모두를 위한 스마트 리드줄 : WalkBuddy",
-                notion: "https://www.notion.so/1455ca346f3b80fbaef5fe51e9aa945f?pvs=4"
+                notion: "https://chocolate-boron-afe.notion.site/1455ca346f3b80fbaef5fe51e9aa945f?pvs=4"
             },
             { 
                 image: projectImg2, 
@@ -124,7 +124,7 @@ function VotePage() {
                 title: "팀플 잘하는법", 
                 name: "A.W.S", 
                 content: "생성형 인공지능을 활용한 편의점 스마트 재고 관리 시스템",
-                notion: "https://www.notion.so/148708307697802f9d3dc9e01845fc81?pvs=4"
+                notion: "https://platinum-snail-96b.notion.site/148708307697802f9d3dc9e01845fc81?pvs=4"
             }
         ],
         '올해의 디버깅': [
@@ -209,7 +209,7 @@ function VotePage() {
                 title: "돈까스조아하세욥?", 
                 name: "합격입니다", 
                 content: "학교 앞 돈까스 도장깨기(포돈, 사랑과 사랑, 미스터카츠••) 그외 추천 맛집까지!",
-                notion: "https://www.notion.so/1fa5aec2791d4a32a380bafa162a0e38?pvs=4"
+                notion: "https://zesty-daphne-ec3.notion.site/1fa5aec2791d4a32a380bafa162a0e38?pvs=4"
             }
         ]
     };
