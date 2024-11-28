@@ -156,7 +156,7 @@ function VotePage() {
                 title: "정량적 스펙 쌓기 챌린지", 
                 name: "SAY-YO", 
                 content: "2024년 한해 동안 인공지능공학과 빅데이터 분석학을 연계하여 학문적 성취를 이루기 위해 노력하고, 다양한 자격증을 취득하며 전문성을 쌓았습니다. 또한, 대외활동과 산학협력 프로젝트에서 실무 경험을 쌓고, 코코톤과 AWS Playground에서 최우수상을 수상하는 성과를 거두었습니다. 이를 통해 도전을 두려워하지 않고 성장하며, 같은 학교 학생들에게 다양한 경험을 통한 성장을 권장하고자 합니다!",
-                notion: "https://www.notion.so/14866c2ded5080b08a0cf592839e147b?pvs=4"
+                notion: "https://shared-krill-b02.notion.site/14866c2ded5080b08a0cf592839e147b"
             }
         ],
         '올해의 도파민 중독자': [
@@ -186,7 +186,7 @@ function VotePage() {
                 title: "나락이다(I'M ROCK)", 
                 name: "?", 
                 content: "2024년에 즐긴 다양한 각종 공연: 페스티벌, 밴드공연, 뮤지컬, 무대인사 등",
-                notion: "https://www.notion.so/143a2900b8f280a19da2de244ad9b67b?pvs=4"
+                notion: "https://sly-radius-83a.notion.site/143a2900b8f280a19da2de244ad9b67b?pvs=4"
             }
         ],
         '올해의 쩝쩝박사': [
