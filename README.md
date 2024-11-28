@@ -1,3 +1,1 @@
-다들힘내 
-거꾸로하면
-내힘들다
+# 2024-the-night-of-ai-it.github.io
