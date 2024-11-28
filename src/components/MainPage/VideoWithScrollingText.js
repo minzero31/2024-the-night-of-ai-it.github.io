@@ -78,9 +78,9 @@ function VideoWithScrollingText() {
     <Wrapper>
       <Line />
       <ScrollingBackground>
-        THE NIGHT OF AI &nbsp;&nbsp;&nbsp;&nbsp; THE NIGHT OF AI &nbsp;&nbsp;&nbsp;&nbsp;
-        THE NIGHT OF AI &nbsp;&nbsp;&nbsp;&nbsp; THE NIGHT OF AI &nbsp;&nbsp;&nbsp;&nbsp;
-        THE NIGHT OF AI &nbsp;&nbsp;&nbsp;&nbsp; THE NIGHT OF AI &nbsp;&nbsp;&nbsp;&nbsp;
+        THE NIGHT OF AI + IT &nbsp;&nbsp;&nbsp;&nbsp; THE NIGHT OF AI + IT &nbsp;&nbsp;&nbsp;&nbsp;
+        THE NIGHT OF AI + IT &nbsp;&nbsp;&nbsp;&nbsp; THE NIGHT OF AI + IT &nbsp;&nbsp;&nbsp;&nbsp;
+        THE NIGHT OF AI + IT &nbsp;&nbsp;&nbsp;&nbsp; THE NIGHT OF AI + IT &nbsp;&nbsp;&nbsp;&nbsp;
       </ScrollingBackground>
       <VideoContainer>
         <StyledIframe
