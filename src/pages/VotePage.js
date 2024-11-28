@@ -110,7 +110,7 @@ function VotePage() {
                 title: "FIND_YOUR_MIND", 
                 name: "Neural_Crew", 
                 content: "딥러닝 기반 감정 인식을 활용한 공감형 아바타 기술로, 실시간 반응이 가능한 공감형 아바타 생성과 표현 기술을 개발하여 사회적, 관계적 고립 심화에 따른 사회문제를 해결함",
-                notion: "https://www.notion.so/IVPL-fc2b391a3e3b488d8479a78fc162296e?p=93974e8af62d4465adbf1ea2a573258c&pm=s"
+                notion: "https://www.notion.so/AI-93974e8af62d4465adbf1ea2a573258c?pvs=4"
             },
             { 
                 image: teamImg2, 
