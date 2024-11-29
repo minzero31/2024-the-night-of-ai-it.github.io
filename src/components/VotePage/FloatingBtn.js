@@ -46,7 +46,7 @@ const VoteBtn = styled.div`
 
 function FloatingBtn() {
     const buttonClick = () => {
-        window.open("https://forms.gle/ofzVMeDksEfhTWXZ6", "_blank");
+        window.open("https://forms.gle/1YrWMZsgREjHGtui8", "_blank");
     }
 
     return(
